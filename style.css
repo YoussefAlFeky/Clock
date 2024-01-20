@@ -1,0 +1,29 @@
+*{
+    margin: 0 ; 
+    padding: 0; 
+
+}
+
+
+body{
+    background-color: #edeaff;
+}
+
+#myContainter{
+
+    background:linear-gradient( to bottom , rgb(32, 136, 255) ,rgba(10, 9, 97, 0.821) ) transparent;
+    width:700px;
+    border-radius: 10px 70px;
+    padding:20px;
+    margin-left:260px;
+    margin-top: 170px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 80px;
+    color:#ff9d00;
+    box-shadow: 30px 10px 10px rgba(0,0,0,0.8);
+    
+    
+
+}
+
